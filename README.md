@@ -7,8 +7,8 @@ I refuse to accept this. So here I am embarking on a journey to discover the tru
 This is a master database where I keep all the records of my journey.
 
 ## 📚 Table of Contents
-- [SQL](#sql)
 - [Python](#python)
+- [SQL](#sql)
 - [Tableau](#tableau)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
