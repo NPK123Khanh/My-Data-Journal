@@ -1,6 +1,7 @@
 # My Data Journal
 
 Many people have told me that I lack technological aptitude and will always be average even if I try. 
+
 I refuse to accept this. So here I am embarking on a journey to discover the true extent of my abilities.
 
 This is a master database where I keep all the records of my journey.
