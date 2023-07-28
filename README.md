@@ -1,12 +1,9 @@
-# My Work Hub
-[...]
+Many people have told me that I lack technological aptitude and will always be average even if I try. 
+I refuse to accept this. So here I am embarking on a journey to discover the true extent of my abilities.
 
+And this is a master database where I keep all the records of my journey.
 
-Hi there! 🙋🏻‍♀️
-
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
-
-Feel free to chat with me on [LinkedIn](...) about my projects!
+# My Data Journal
 
 ## 📚 Table of Contents
 - [SQL](#sql)
